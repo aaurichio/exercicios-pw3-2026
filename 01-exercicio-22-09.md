@@ -84,7 +84,7 @@ Crie uma nova branch seguindo estritamente o padrão de nomenclatura com a ident
 ```bash
 git checkout -b alu1-alu2-av
 ```
-*(Substitua `alu1` e `alu2` pelos nomes/primeiros nomes ou RMs dos integrantes. Exemplo: `lucas-mariana-av` ou `rm12345-rm67890-av`).*
+*(Substitua `alu1` e `alu2` pelos nomes/primeiros nomes dos integrantes. Exemplo: `lucas-mariana-av`).*
 
 Verifique se você está na branch correta:
 ```bash
